@@ -1,0 +1,23 @@
+Week 1 – Gemini API Integration
+
+about the Project 
+In this practical, I connected Python with the Google Gemini API and implemented a simple application to interact with a Large Language Model.
+
+Work Completed
+- Configured the Gemini API using an API key.
+- Integrated the Google GenAI library with Python.
+- Used prompts to generate responses from Gemini.
+- Implemented and executed the Python program successfully.
+
+Technologies Used
+Python, Google Gemini API, Google GenAI, Python-dotenv.
+
+Execution
+python main.py
+
+
+Output
+The application successfully connected to Gemini, accepted the input prompt and displayed an AI-generated response.
+
+Learning Outcome
+I learned how to integrate an LLM API into a Python application and generate responses using prompts.
